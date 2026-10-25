@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">TypoShift browser popup screenshot</title>
+  <desc id="description">A selected text sample, hkh, is converted from the French AZERTY layout to Arabic. The popup shows automatic detection, quick layout pairs, and copy and replace actions.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#17202a" flood-opacity=".18"/>
+    </filter>
+    <linearGradient id="page" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f8fb"/>
+      <stop offset="1" stop-color="#eef2f5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" rx="20" fill="#dfe5ea"/>
+  <rect x="1" y="1" width="1198" height="718" rx="20" fill="url(#page)" stroke="#cbd3da" stroke-width="2"/>
+  <path d="M20 1h1160a19 19 0 0 1 19 19v48H1V20A19 19 0 0 1 20 1Z" fill="#f9fafb"/>
+  <circle cx="28" cy="34" r="7" fill="#ed6a5e"/>
+  <circle cx="52" cy="34" r="7" fill="#f4bf4f"/>
+  <circle cx="76" cy="34" r="7" fill="#61c454"/>
+  <rect x="260" y="18" width="680" height="32" rx="9" fill="#edf0f3"/>
+  <text x="600" y="39" text-anchor="middle" fill="#727d88" font-family="Arial, sans-serif" font-size="13">example.com</text>
+
+  <rect x="1" y="68" width="1198" height="54" fill="#fff" opacity=".9"/>
+  <circle cx="42" cy="95" r="13" fill="#e9edf0"/>
+  <path d="M47 95H38m0 0 4-4m-4 4 4 4" fill="none" stroke="#68727d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="83" cy="95" r="13" fill="#e9edf0"/>
+  <path d="M78 95h9m0 0-4-4m4 4-4 4" fill="none" stroke="#68727d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="112" y="84" width="820" height="22" rx="11" fill="#f1f3f5"/>
+  <text x="132" y="99" fill="#7b858e" font-family="Arial, sans-serif" font-size="11">https://example.com/message</text>
+  <circle cx="1153" cy="95" r="16" fill="#edf0f2"/>
+  <text x="1153" y="100" text-anchor="middle" fill="#68727d" font-family="Arial, sans-serif" font-size="13" font-weight="700">⋮</text>
+
+  <path d="M1 122h1198v578a19 19 0 0 1-19 19H20a19 19 0 0 1-19-19Z" fill="#f4f6f8"/>
+  <rect x="95" y="174" width="1010" height="470" rx="16" fill="#fff" stroke="#e5e9ed"/>
+  <text x="145" y="230" fill="#17202a" font-family="Arial, sans-serif" font-size="25" font-weight="700">New message</text>
+  <text x="145" y="274" fill="#68727d" font-family="Arial, sans-serif" font-size="14">To</text>
+  <rect x="175" y="253" width="420" height="34" rx="7" fill="#fff" stroke="#d9dfe5"/>
+  <text x="190" y="275" fill="#68727d" font-family="Arial, sans-serif" font-size="14">alex@example.com</text>
+  <line x1="145" y1="309" x2="1055" y2="309" stroke="#edf0f2"/>
+  <text x="145" y="351" fill="#68727d" font-family="Arial, sans-serif" font-size="14">Message</text>
+  <text x="145" y="397" fill="#17202a" font-family="Arial, sans-serif" font-size="19">Salut,</text>
+  <text x="145" y="433" fill="#17202a" font-family="Arial, sans-serif" font-size="19">Peux-tu me confirmer le rendez-vous ?</text>
+  <rect x="144" y="450" width="46" height="31" rx="4" fill="#dce8ff"/>
+  <text x="151" y="472" fill="#17202a" font-family="Arial, sans-serif" font-size="19">hkh</text>
+  <text x="145" y="520" fill="#17202a" font-family="Arial, sans-serif" font-size="19">Merci !</text>
+  <line x1="145" y1="562" x2="1055" y2="562" stroke="#edf0f2"/>
+  <rect x="145" y="583" width="112" height="38" rx="8" fill="#17604d"/>
+  <text x="201" y="607" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Send</text>
+  <text x="278" y="607" fill="#87919a" font-family="Arial, sans-serif" font-size="13">Your message is saved as a draft</text>
+
+  <g filter="url(#shadow)">
+    <rect x="625" y="144" width="360" height="383" rx="14" fill="#fbfaf7" stroke="#d9dfe5"/>
+  </g>
+  <text x="643" y="174" fill="#17202a" font-family="Arial, sans-serif" font-size="15" font-weight="700">TypoShift</text>
+  <text x="965" y="175" text-anchor="middle" fill="#68727d" font-family="Arial, sans-serif" font-size="20">×</text>
+
+  <text x="643" y="202" fill="#68727d" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing=".7">FROM</text>
+  <text x="832" y="202" fill="#68727d" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing=".7">TO</text>
+  <rect x="643" y="209" width="141" height="34" rx="7" fill="#fff" stroke="#cdd4da"/>
+  <text x="652" y="231" fill="#17202a" font-family="Arial, sans-serif" font-size="12">French (AZERTY)</text>
+  <path d="m763 222 5 5 5-5" fill="none" stroke="#68727d" stroke-width="1.4"/>
+  <rect x="791" y="209" width="34" height="34" rx="8" fill="#e0ece8"/>
+  <text x="808" y="233" text-anchor="middle" fill="#17604d" font-family="Arial, sans-serif" font-size="20" font-weight="700">⇄</text>
+  <rect x="832" y="209" width="141" height="34" rx="7" fill="#fff" stroke="#cdd4da"/>
+  <text x="841" y="231" fill="#17202a" font-family="Arial, sans-serif" font-size="12">Arabic (AZERTY)</text>
+  <path d="m957 222 5 5 5-5" fill="none" stroke="#68727d" stroke-width="1.4"/>
+
+  <rect x="643" y="257" width="13" height="13" rx="2" fill="#fff" stroke="#aab4bd"/>
+  <path d="m646 263 3 3 5-6" fill="none" stroke="#17604d" stroke-width="1.5"/>
+  <text x="663" y="268" fill="#4b5661" font-family="Arial, sans-serif" font-size="11" font-weight="600">Auto-detect</text>
+  <text x="967" y="268" text-anchor="end" fill="#17604d" font-family="Arial, sans-serif" font-size="11" font-weight="600">Detected: Latin</text>
+
+  <text x="643" y="295" fill="#68727d" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing=".7">SELECTED TEXT</text>
+  <rect x="643" y="302" width="324" height="57" rx="8" fill="#f1f3f4" stroke="#d9dfe5"/>
+  <text x="655" y="337" fill="#4b5661" font-family="Arial, sans-serif" font-size="14">hkh</text>
+
+  <text x="643" y="383" fill="#68727d" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing=".7">CONVERTED TEXT</text>
+  <rect x="643" y="390" width="324" height="57" rx="8" fill="#eef7f2" stroke="#b9d7c9"/>
+  <text x="953" y="426" text-anchor="end" fill="#173d31" font-family="Arial, sans-serif" font-size="20">انا</text>
+
+  <rect x="643" y="464" width="67" height="26" rx="6" fill="#e9edf0"/>
+  <text x="676.5" y="481" text-anchor="middle" fill="#4b5661" font-family="Arial, sans-serif" font-size="10" font-weight="700">EN ⇄ AR</text>
+  <rect x="715" y="464" width="67" height="26" rx="6" fill="#e9edf0"/>
+  <text x="748.5" y="481" text-anchor="middle" fill="#4b5661" font-family="Arial, sans-serif" font-size="10" font-weight="700">EN ⇄ FR</text>
+  <rect x="787" y="464" width="67" height="26" rx="6" fill="#d8e8e2"/>
+  <text x="820.5" y="481" text-anchor="middle" fill="#17604d" font-family="Arial, sans-serif" font-size="10" font-weight="700">FR ⇄ AR</text>
+  <rect x="861" y="460" width="54" height="32" rx="7" fill="none" stroke="#17604d"/>
+  <text x="888" y="480" text-anchor="middle" fill="#17604d" font-family="Arial, sans-serif" font-size="11" font-weight="700">Replace</text>
+  <rect x="921" y="460" width="46" height="32" rx="7" fill="#17604d"/>
+  <text x="944" y="480" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="700">Copy</text>
+</svg>

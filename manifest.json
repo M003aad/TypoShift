@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "TypoShift",
+  "version": "1.0.0",
+  "description": "Convert text typed with the wrong French, Arabic, or English keyboard layout.",
+  "permissions": ["storage", "clipboardWrite"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["mappings.js", "styles.js", "converter.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["assets/48.48.png"],
+      "matches": ["<all_urls>"],
+      "use_dynamic_url": true
+    }
+  ],
+  "icons": {
+    "16": "assets/16.16.png",
+    "32": "assets/32.32.png",
+    "48": "assets/48.48.png",
+    "128": "assets/128.128.png"
+  },
+  "action": {
+    "default_title": "TypoShift",
+    "default_icon": {
+      "16": "assets/16.16.png",
+      "32": "assets/32.32.png",
+      "48": "assets/48.48.png",
+      "128": "assets/128.128.png"
+    }
+  }
+}
